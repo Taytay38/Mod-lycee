@@ -137,5 +137,66 @@
       "La ruche",
       "Le repos éternel"
     ]
+  },
+  {
+    "name": "autre",
+    "leaderName": "Le roi pâle",
+    "adjective": [
+      "Vide"
+    ],
+    "declaringWar": "Vous êtes infectés par la radiance, il est notre devoir d'empêcher sa propagation...",
+    "attacked": "L'infection vous a fait perdre la raison ! Nous allons empêcher sa propagation.",
+    "defeated": "Hallownest est tombé, face à la lumière aveuglant leurs rèves.",
+    "introduction": "Salutations !",
+    "neutralHello": "Que souhaitez-vous ?",
+    "neutralLetsHearIt": [
+      "Qu'avez vous a dire?"
+    ],
+    "neutralNo": [
+      "Nous n'acceptons pas.",
+      "Non."
+    ],
+    "neutralYes": [
+      "Nous acceptons."
+    ],
+    "hateHello": "Que signifie votre infecte présence ?",
+    "hateLetsHearIt": [
+      "Parlez avant de regretter être venu a ce village!",
+      "Dites nous ce que vous voulez de nous et peut-être que Hallownest vous accordera son attention"
+    ],
+    "hateNo": [
+      "Jamais nous accepterions d'échanger avec des créatures en votre genre!",
+      "C'était une erreur de vous avoir accordé notre précieux temps",
+      "Vous avez été assez fous pour venir ici avec des paroles aussi idiotes et esperer ressortir avec notre faveur! Considérez vous heureux de ressortis sans avoir été tranché par nos pinces."
+    ],
+    "hateYes": [
+      "Peut être n'etes vous pas si fous finalement.",
+      "Nous acceptons. Maintenant partez!",
+      "Très bien... Mais sachez que nous acceptons seulement a cause de notre manque de ressources."
+    ],
+    "afterPeace": "Cette guerre ne mene nulle part. Il semble que l'infection est assez contenue dans votre royaume. Pour l'instant dumoins...",
+    "tradeRequest": "Le royaume d'Halownest requiert votre aide. Aucun prix n'est trop grand.",
+    "outerColor": [
+      35,
+      41,
+      122
+    ],
+    "innerColor": [
+      211,
+      211,
+      211
+    ],
+    "cities": [
+      "Le palais blanc",
+      "Cité des larmes",
+      "Dirtmouth",
+      "Village des mentes",
+      "Les routes oubliées",
+      "Le nid profond",
+      "Les jardins de la reine",
+      "Les pics de crystal",
+      "La ruche",
+      "Le repos éternel"
+    ]
   }
 ]
