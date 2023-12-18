@@ -193,5 +193,67 @@
       "Paris",
       "Hollywood"
     ]
-  }
+  },
+  {
+    "name": "URSS",
+    "leaderName": "Staline",
+    "adjective": [
+      ""
+    ],
+    "declaringWar": "",
+    "attacked": "",
+    "defeated": "",
+    "introduction": "",
+    "neutralHello": "",
+    "neutralLetsHearIt": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "neutralNo": [
+      "",
+      ""
+    ],
+    "neutralYes": [
+      "",
+      "",
+      ""
+    ],
+    "hateHello": "",
+    "hateLetsHearIt": [
+      "",
+      "",
+      ""
+    ],
+    "hateNo": [
+      "",
+      "",
+      ""
+    ],
+    "hateYes": [
+      "",
+      "",
+      "Bien..."
+    ],
+    "afterPeace": "",
+    "tradeRequest": "",
+     "uniques": [
+      ""
+    ],
+    "outerColor": [
+      ,
+      ,
+      
+    ],
+    "innerColor": [
+      ,
+      ,
+      
+    ],
+    "cities": [
+      "Stalingrad",
+      
+    ]
+  },
 ]
